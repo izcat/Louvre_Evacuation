@@ -36,6 +36,17 @@
     - 移动方向：每个人优先选择最短路进行撤离，考虑使用Moore型元胞，有8个移动方向
     - 移动速度：一定区域内（周围8个邻居元胞）人流密度决定人员的移动速度 （待改进：统计可视角度内的人流密度）
 
-## 模拟效果
+## 模拟结果
+### 人员疏散过程模拟
+![gif1](https://github.com/izcat/Louvre_Evacuation/blob/master/result/1.gif)
+![gif2](https://github.com/izcat/Louvre_Evacuation/blob/master/result/2.gif)
+![png3](https://github.com/izcat/Louvre_Evacuation/blob/master/result/3.png)
+![png4](https://github.com/izcat/Louvre_Evacuation/blob/master/result/4.png)
 
+
+### 热力图
+反映瓶颈位置  
+
+![pic1](https://github.com/izcat/Louvre_Evacuation/blob/master/result/figure_1.png)
+![pic2](https://github.com/izcat/Louvre_Evacuation/blob/master/result/figure_2.png)
     
