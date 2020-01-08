@@ -49,4 +49,8 @@
 
 ![pic1](https://github.com/izcat/Louvre_Evacuation/blob/master/result/figure_1.png)
 ![pic2](https://github.com/izcat/Louvre_Evacuation/blob/master/result/figure_2.png)
-    
+
+
+## 代码说明
+请见code目录  
+https://github.com/izcat/Louvre_Evacuation/blob/master/code/README.md
